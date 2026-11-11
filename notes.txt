@@ -1,2 +1,1 @@
-Day 1: learning Git
-Day:2 the staging area
+Day 3: Amend practice
